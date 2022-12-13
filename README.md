@@ -22,13 +22,12 @@ The purpose of this project is to create a calendar application, that allows a u
 * Effectively accessing classes & ids for streamlined design
 * Positioning data formats to ensure selection criteria is met 
 
-# Link 
+# Preview
 ![ke-l github io_Daily-Planner_](https://user-images.githubusercontent.com/115717787/207374008-352437dc-6370-4720-b094-0758576b30cf.png)
 
 
-# Preview
-![127 0 0 1_5500_index html (1)](https://user-images.githubusercontent.com/115717787/207372713-f2afba4b-79b4-447d-ae1d-8ad2313b6047.png)
-
+# Link 
+https://ke-l.github.io/Daily-Planner/
 
 # Contact:
 If you have any questions, please contact me at: 

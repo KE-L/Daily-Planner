@@ -23,7 +23,7 @@ The purpose of this project is to create a calendar application, that allows a u
 * Positioning data formats to ensure selection criteria is met 
 
 # Link 
-https://ke-l.github.io/Daily-Planner/
+![ke-l github io_Daily-Planner_](https://user-images.githubusercontent.com/115717787/207374008-352437dc-6370-4720-b094-0758576b30cf.png)
 
 
 # Preview

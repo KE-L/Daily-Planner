@@ -27,12 +27,12 @@ https://ke-l.github.io/passwordGenerator/
 
 
 # Preview
-![ke-l github io_passwordGenerator_ (1)](https://user-images.githubusercontent.com/115717787/204668500-9d203aea-9608-436c-bbe9-22ed7c897622.png)
+![127 0 0 1_5500_index html (1)](https://user-images.githubusercontent.com/115717787/207372713-f2afba4b-79b4-447d-ae1d-8ad2313b6047.png)
 
 
 # Contact:
 If you have any questions, please contact me at: 
 
-  Github Profile: (https://github.com/KE-L)  
+Github Profile: (https://github.com/KE-L)  
   
-  LinkedIn:( https://www.linkedin.com/in/kassy-essiet-labukas-581a34122/)
+LinkedIn:( https://www.linkedin.com/in/kassy-essiet-labukas-581a34122/)

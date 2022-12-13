@@ -23,7 +23,7 @@ The purpose of this project is to create a calendar application, that allows a u
 * Positioning data formats to ensure selection criteria is met 
 
 # Link 
-https://ke-l.github.io/passwordGenerator/
+https://ke-l.github.io/Daily-Planner/
 
 
 # Preview

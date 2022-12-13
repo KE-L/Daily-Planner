@@ -1,8 +1,8 @@
 // Implement Jquery methods to incorporate date into header
 $(document).ready(function () {
 let displayDate = $('#currentDay');
-displayDate.text(moment().format('dddd MMMM do'));
-let currentHour = moment().format('HH');
+displayDate.text(moment().format('dddd MMMM YYYY'));
+
 
 // Color-code time blocks: To past, present, & future. 
 colorTimeBlocks();
@@ -13,7 +13,7 @@ function colorTimeBlocks() {
         var blockHour = parseInt($(this).attr("id").replace("hour-", ""));
         var currentHour = parseInt(moment().format("H"));
         $(this).removeClass("past present future");
-        
+
 // Intro logic required for color coding 
         if (blockHour < currentHour) {
             $(this).addClass("past");
